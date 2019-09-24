@@ -12,12 +12,12 @@ body {
 }
 .box {
   position: relative;
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 100px;
   transform: perspective(500px) rotate(-40deg) skew(25deg);
   box-shadow: -90px 75px 20px rgba(0, 0, 0, .3);
   background: #fff url('nexus.png');
-  background-size: 360px;
+  background-size: 180px;
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
